@@ -34,7 +34,7 @@ My research interest includes speech synthesis, voice conversion and speaker ano
 <!-- **Speech Privacy**: -->
 
 # 💻 Internships
-- *2024.03 - Now*, Nanyang Technological University, Singapore (supervised by Prof. [Eng-Siong Chng](https://aseschng.github.io/intro1.html)).
+- *2024.03 - 2025.02*, Nanyang Technological University, Singapore (supervised by Prof. [Eng-Siong Chng](https://aseschng.github.io/intro1.html)).
 - *2022.12 - 2024.02*, Everest Team - Ximalaya, China.
 
 <!-- # 🔥 News
@@ -54,6 +54,18 @@ My research interest includes speech synthesis, voice conversion and speaker ano
 </div>
 </div> -->
 
+2025:
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech. **J Yao**, Y Yang, Y Pan, Y Feng, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/pdf/2502.02950)  [[DemoPage]](https://yaoxunji.github.io/fpo)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling. **J Yao**, H Liu, C Chen, Y Hu, ES Chng, L Xie. [[PDF]](https://arxiv.org/pdf/2502.02942)  [[DemoPage]](https://yaoxunji.github.io/gen-se/)  [[Code]](https://github.com/yaoxunji/gen-se)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching. **J Yao**, Y Yang, Y Pan, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/pdf/2412.04724)  [[DemoPage]](https://yaoxunji.github.io/stablevc/)
+
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> Drop the beat! Freestyler for Accompaniment Conditioned Rapping Voice Generation. Z Ning, S Wang, Y Jiang, **J Yao**, L He, S Pan, J Ding, L Xie. [[PDF]](https://arxiv.org/pdf/2408.15474)  [[DemoPage]](https://nzqian.github.io/Freestyler/)  [[Code]](https://github.com/NZqian/RapBank)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> DiffAttack: Diffusion-based Timbre-reserved Adversarial Attack in Speaker Identification. Q Wang, **J Yao**, Z Sun, P Guo, L Xie, JHL Hansen. [[PDF]](https://arxiv.org/pdf/2501.05127)
+
 2024:
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> Distinctive and Natural Speaker Anonymization via Singular Value Transformation-Assisted Matrix. **J Yao**, Y Lei, Q Wang, P Guo, Z Ning, L Xie. [[PDF]](https://arxiv.org/pdf/2405.10786) 
@@ -65,6 +77,17 @@ My research interest includes speech synthesis, voice conversion and speaker ano
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Accurate Speech Emotion Recognition. Y Pan, Y Hu, Y Yang, W Fei, **J Yao**, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2306.07848) 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">INTERSPEECH 2024</span> DualVC 3: Leveraging Language Model Generated Pseudo Context for End-to-end Low Latency Streaming Voice Conversion. Z Ning, S Wang, P Zhu, Z Wang, **J Yao**, L Xie, M Bi. [[PDF]](https://arxiv.org/pdf/2406.07846)  [[DemoPage]](https://nzqian.github.io/dualvc3/)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">VPC 2024</span> NPU-NTU System for Voice Privacy 2024 Challenge. **J Yao**, N Kuzmin, Q Wang, P Guo, Z Ning, D Guo, KA Lee, ES Chng, L Xie. [[PDF]](https://arxiv.org/pdf/2409.04173) 
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">VPC 2024</span> NTU-NPU System for Voice Privacy 2024 Challenge. N Kuzmin, HT Luong, **J Yao**, L Xie, KA Lee, ES Chng. [[PDF]](https://arxiv.org/pdf/2410.02371) 
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ISCSLP 2024</span> The ISCSLP 2024 Conversational Voice Clone (CoVoC) Challenge: Tasks, Results and Findings. K Xia, D Guo, **J Yao**, L Xue, H Li, S Wang, Z Guo, L Xie, Q Zhang, L Luo, M Dong, P Sun. [[PDF]](https://arxiv.org/pdf/2411.00064) 
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ISCSLP 2024</span> The NPU-HWC System for the ISCSLP 2024 Inspirational and Convincing Audio Generation Challenge. D Guo, **J Yao**, X Zhu, K Xia, Z Guo, Z Zhang, Y Wang, J Liu, L Xie. [[PDF]](https://arxiv.org/pdf/2410.23815) 
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Report</span> Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models. [[PDF]](https://arxiv.org/pdf/2409.12139) 
+
 
 2023:
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> Preserving background sound in noise-robust voice conversion via multi-task learning. **J Yao**, Y Lei, Q Wang, P Guo, Z Ning, L Xie, H Li, J Liu, D Xie. [[PDF]](https://arxiv.org/pdf/2211.03036)  [[DemoPage]](https://yaoxunji.github.io/background_sound_vc/)
@@ -110,9 +133,11 @@ My research interest includes speech synthesis, voice conversion and speaker ano
   - IEEE TASLP
   - IEEE SPL
   - Speech Communication
-  - ICASSP `2024
-  - INTERSPEECH `2024
-  - ACM MM `2024
+  - ICASSP 2024, 2025
+  - INTERSPEECH 2024, 2025
+  - ACM MM 2024
+  - ICLR 2025
+  - IJCNN 2025
 - Organizer
   - [Conversational Voice Clone Challenge (CoVoC)](https://www.magicdatatech.com/iscslp-2024) @ ISCSLP 2024
 
