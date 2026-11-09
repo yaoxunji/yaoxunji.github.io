@@ -23,8 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jixun Yao (姚继珣)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Student @ Audio, Speech and Language Processing Group (ASLP@NPU), School of Computer Science, Northwestern Polytechnical University"
-  location         : "China"
+  bio              : "Researcher at Tencent HY, working on speech generation. I received my Ph.D. in Computer Science from
+      Northwestern Polytechnical University (ASLP@NPU)"
+  location         : "Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=KjcXd6cAAAAJ"
