@@ -19,23 +19,29 @@ redirect_from:
 
 <!-- Jixun Yao -->
 
-I’m a four-year Ph.D. student at the Northwestern Polytechnical University, supervised by Prof. [Lei Xie](http://lxie.npu-aslp.org/).
+I am a Researcher at Tencent HY, working on speech generation. I received my Ph.D. in Computer Science from
+Northwestern Polytechnical University (NPU), where I was a member of the
+Audio, Speech and Language Processing Group (ASLP@NPU), School of
+Computer Science, supervised by Prof. [Lei Xie](http://lxie.npu-aslp.org/).
 
 
 <!-- My research interest includes speech synthesis, voice conversion and speaker anonymization. I have published more than 20 papers at the top international speech conferences and journal with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-My research interest includes speech synthesis, voice conversion and speaker anonymization. I have published more than 20 papers at the top international speech conferences and journal.
+My research interest includes speech synthesis, song generation and speech RL. I have published more than 50 papers at the top international speech conferences and journal.
 
 # 🔍 Research Area
-**Speech Processing**: Voice Conversion, Text-to-Speech, Speaker Anonymization, Expressive Speech Synthesis
+**Speech Processing**: Text-to-Speech, Voice Conversion, Speech RL
 
-**Large Language Models**: Speech LLMs, Speech Tokenizer, Diffusion Models
+**Music Generation**: Song Generation & Evaluation
 
 <!-- **Speech Privacy**: -->
 
-# 💻 Internships
-- *2024.03 - 2025.02*, Nanyang Technological University, Singapore (supervised by Prof. [Eng-Siong Chng](https://aseschng.github.io/intro1.html)).
-- *2022.12 - 2024.02*, Everest Team - Ximalaya, China.
+# 💻 Experience
+- *2026.04 - Present*, Hunyuan Tencent - Researcher
+- *2025.09 - 2026.02*, Seed/Speech ByteDance - Research Intern
+- *2025.06 - 2025.09*, Data/Douyin ByteDance - Research Intern
+- *2024.03 - 2025.02*, Nanyang Technological University - Visiting Researcher (supervised by Prof. [Eng-Siong Chng](https://aseschng.github.io/intro1.html))
+- *2022.12 - 2024.02*, Everest Team Ximalaya - Research Intern
 
 <!-- # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 I exchange to Nanyang Technological University supervised by Prof. [Eng-Siong Chng](https://aseschng.github.io/intro1.html). -->
@@ -55,68 +61,74 @@ My research interest includes speech synthesis, voice conversion and speaker ano
 </div> -->
 
 2025:
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Under Review</span> Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech. **J Yao**, Y Yang, Y Pan, Y Feng, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/pdf/2502.02950)  [[DemoPage]](https://yaoxunji.github.io/fpo)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> FPO: Fine-Grained Preference Optimization Improves Zero-Shot Text-to-Speech. **<u>J Yao</u>**, Y Yang, Y Pan, Y Feng, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/pdf/2502.02950)  [[DemoPage]](https://yaoxunji.github.io/fpo)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling. **<u>J Yao</u>**, H Liu, C Chen, Y Hu, ES Chng, L Xie. [[PDF]](https://arxiv.org/pdf/2502.02942)  [[DemoPage]](https://yaoxunji.github.io/gen-se/)  [[Code]](https://github.com/yaoxunji/gen-se)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICLR 2025</span> GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling. **J Yao**, H Liu, C Chen, Y Hu, ES Chng, L Xie. [[PDF]](https://arxiv.org/pdf/2502.02942)  [[DemoPage]](https://yaoxunji.github.io/gen-se/)  [[Code]](https://github.com/yaoxunji/gen-se)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching. **<u>J Yao</u>**, Y Yang, Y Pan, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/pdf/2412.04724)  [[DemoPage]](https://yaoxunji.github.io/stablevc/)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching. **J Yao**, Y Yang, Y Pan, Z Ning, J Ye, H Zhou, L Xie. [[PDF]](https://arxiv.org/pdf/2412.04724)  [[DemoPage]](https://yaoxunji.github.io/stablevc/)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> MUSA: Multi-lingual speaker anonymization via serial disentanglement. **<u>J Yao</u>**, Q Wang, P Guo, Z Ning, Y Yang, Y Pan, L Xie. [[PDF]](https://arxiv.org/pdf/2407.11629)  [[DemoPage]](https://yaoxunji.github.io/musa/)
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025</span> Takin-vc: Zero-shot voice conversion via jointly hybrid content and memory-augmented context-aware timbre modeling. Y Yang, Y Pan, **<u>J Yao</u>**, X Zhang, J Ye, H Zhou, L Xie, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2410.01350)  [[DemoPage]](https://yaoxunji.github.io/takin-vc/)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> Drop the beat! Freestyler for Accompaniment Conditioned Rapping Voice Generation. Z Ning, S Wang, Y Jiang, **J Yao**, L He, S Pan, J Ding, L Xie. [[PDF]](https://arxiv.org/pdf/2408.15474)  [[DemoPage]](https://nzqian.github.io/Freestyler/)  [[Code]](https://github.com/NZqian/RapBank)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2025</span> Drop the beat! Freestyler for Accompaniment Conditioned Rapping Voice Generation. Z Ning, S Wang, Y Jiang, **<u>J Yao</u>**, L He, S Pan, J Ding, L Xie. [[PDF]](https://arxiv.org/pdf/2408.15474)  [[DemoPage]](https://nzqian.github.io/Freestyler/)  [[Code]](https://github.com/NZqian/RapBank)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> DiffAttack: Diffusion-based Timbre-reserved Adversarial Attack in Speaker Identification. Q Wang, **J Yao**, Z Sun, P Guo, L Xie, JHL Hansen. [[PDF]](https://arxiv.org/pdf/2501.05127)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">INTERSPEECH 2025</span> EASY: Emotion-aware Speaker Anonymization via Factorized Distillation. **<u>J Yao</u>**, H Liu, ES Chng, L Xie. [[PDF]](https://arxiv.org/pdf/2505.15004)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">arXiv 2025</span> SongEval: A Benchmark Dataset for Song Aesthetics Evaluation. **<u>J Yao</u>**, G Ma, H Xue, H Chen, C Hao, Y Jiang, H Liu, R Yuan, J Xu, W Xue, H Liu, L Xie. [[PDF]](https://arxiv.org/pdf/2505.10793)  [[Code]](https://github.com/ASLP-lab/SongEval)
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> DiffAttack: Diffusion-based Timbre-reserved Adversarial Attack in Speaker Identification. Q Wang, **<u>J Yao</u>**, Z Sun, P Guo, L Xie, JHL Hansen. [[PDF]](https://arxiv.org/pdf/2501.05127)
 
 2024:
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> Distinctive and Natural Speaker Anonymization via Singular Value Transformation-Assisted Matrix. **J Yao**, Y Lei, Q Wang, P Guo, Z Ning, L Xie. [[PDF]](https://arxiv.org/pdf/2405.10786) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> Distinctive and Natural Speaker Anonymization via Singular Value Transformation-Assisted Matrix. **<u>J Yao</u>**, Y Lei, Q Wang, P Guo, Z Ning, L Xie. [[PDF]](https://arxiv.org/pdf/2405.10786) 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> PromptVC: Flexible stylistic voice conversion in latent space driven by natural language prompts. **J Yao**, Y Yang, Y Lei, Z Ning, Y Hu, Y Pan, J Yin, H Zhou, H Lu, L Xie. [[PDF]](https://arxiv.org/pdf/2309.09262)  [[DemoPage]](https://yaoxunji.github.io/prompt_vc/)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> PromptVC: Flexible stylistic voice conversion in latent space driven by natural language prompts. **<u>J Yao</u>**, Y Yang, Y Lei, Z Ning, Y Hu, Y Pan, J Yin, H Zhou, H Lu, L Xie. [[PDF]](https://arxiv.org/pdf/2309.09262)  [[DemoPage]](https://yaoxunji.github.io/prompt_vc/)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> Dualvc 2: Dynamic masked convolution for unified streaming and non-streaming voice conversion. Z Ning, Y Jiang, P Zhu, S Wang, **J Yao**, L Xie, M Bi. [[PDF]](https://arxiv.org/pdf/2309.15496)  [[DemoPage]](https://dualvc.github.io/dualvc2/)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> Dualvc 2: Dynamic masked convolution for unified streaming and non-streaming voice conversion. Z Ning, Y Jiang, P Zhu, S Wang, **<u>J Yao</u>**, L Xie, M Bi. [[PDF]](https://arxiv.org/pdf/2309.15496)  [[DemoPage]](https://dualvc.github.io/dualvc2/)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Accurate Speech Emotion Recognition. Y Pan, Y Hu, Y Yang, W Fei, **J Yao**, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2306.07848) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Accurate Speech Emotion Recognition. Y Pan, Y Hu, Y Yang, W Fei, **<u>J Yao</u>**, H Lu, L Ma, J Zhao. [[PDF]](https://arxiv.org/pdf/2306.07848) 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">INTERSPEECH 2024</span> DualVC 3: Leveraging Language Model Generated Pseudo Context for End-to-end Low Latency Streaming Voice Conversion. Z Ning, S Wang, P Zhu, Z Wang, **J Yao**, L Xie, M Bi. [[PDF]](https://arxiv.org/pdf/2406.07846)  [[DemoPage]](https://nzqian.github.io/dualvc3/)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">INTERSPEECH 2024</span> DualVC 3: Leveraging Language Model Generated Pseudo Context for End-to-end Low Latency Streaming Voice Conversion. Z Ning, S Wang, P Zhu, Z Wang, **<u>J Yao</u>**, L Xie, M Bi. [[PDF]](https://arxiv.org/pdf/2406.07846)  [[DemoPage]](https://nzqian.github.io/dualvc3/)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">VPC 2024</span> NPU-NTU System for Voice Privacy 2024 Challenge. **J Yao**, N Kuzmin, Q Wang, P Guo, Z Ning, D Guo, KA Lee, ES Chng, L Xie. [[PDF]](https://arxiv.org/pdf/2409.04173) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">VPC 2024</span> NPU-NTU System for Voice Privacy 2024 Challenge. **<u>J Yao</u>**, N Kuzmin, Q Wang, P Guo, Z Ning, D Guo, KA Lee, ES Chng, L Xie. [[PDF]](https://arxiv.org/pdf/2409.04173) 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">VPC 2024</span> NTU-NPU System for Voice Privacy 2024 Challenge. N Kuzmin, HT Luong, **J Yao**, L Xie, KA Lee, ES Chng. [[PDF]](https://arxiv.org/pdf/2410.02371) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">VPC 2024</span> NTU-NPU System for Voice Privacy 2024 Challenge. N Kuzmin, HT Luong, **<u>J Yao</u>**, L Xie, KA Lee, ES Chng. [[PDF]](https://arxiv.org/pdf/2410.02371) 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ISCSLP 2024</span> The ISCSLP 2024 Conversational Voice Clone (CoVoC) Challenge: Tasks, Results and Findings. K Xia, D Guo, **J Yao**, L Xue, H Li, S Wang, Z Guo, L Xie, Q Zhang, L Luo, M Dong, P Sun. [[PDF]](https://arxiv.org/pdf/2411.00064) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ISCSLP 2024</span> The ISCSLP 2024 Conversational Voice Clone (CoVoC) Challenge: Tasks, Results and Findings. K Xia, D Guo, **<u>J Yao</u>**, L Xue, H Li, S Wang, Z Guo, L Xie, Q Zhang, L Luo, M Dong, P Sun. [[PDF]](https://arxiv.org/pdf/2411.00064) 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ISCSLP 2024</span> The NPU-HWC System for the ISCSLP 2024 Inspirational and Convincing Audio Generation Challenge. D Guo, **J Yao**, X Zhu, K Xia, Z Guo, Z Zhang, Y Wang, J Liu, L Xie. [[PDF]](https://arxiv.org/pdf/2410.23815) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ISCSLP 2024</span> The NPU-HWC System for the ISCSLP 2024 Inspirational and Convincing Audio Generation Challenge. D Guo, **<u>J Yao</u>**, X Zhu, K Xia, Z Guo, Z Zhang, Y Wang, J Liu, L Xie. [[PDF]](https://arxiv.org/pdf/2410.23815) 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Report</span> Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models. [[PDF]](https://arxiv.org/pdf/2409.12139) 
 
 
 2023:
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> Preserving background sound in noise-robust voice conversion via multi-task learning. **J Yao**, Y Lei, Q Wang, P Guo, Z Ning, L Xie, H Li, J Liu, D Xie. [[PDF]](https://arxiv.org/pdf/2211.03036)  [[DemoPage]](https://yaoxunji.github.io/background_sound_vc/)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> Preserving background sound in noise-robust voice conversion via multi-task learning. **<u>J Yao</u>**, Y Lei, Q Wang, P Guo, Z Ning, L Xie, H Li, J Liu, D Xie. [[PDF]](https://arxiv.org/pdf/2211.03036)  [[DemoPage]](https://yaoxunji.github.io/background_sound_vc/)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> Distinguishable speaker anonymization based on formant and fundamental frequency scaling. **J Yao**, Q Wang, Y Lei, P Guo, L Xie, N Wang, J Liu. [[PDF]](https://arxiv.org/pdf/2211.03038) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> Distinguishable speaker anonymization based on formant and fundamental frequency scaling. **<u>J Yao</u>**, Q Wang, Y Lei, P Guo, L Xie, N Wang, J Liu. [[PDF]](https://arxiv.org/pdf/2211.03038) 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> Expressive-vc: Highly expressive voice conversion with attention fusion of bottleneck and perturbation features. Z Ning, Q Xie, P Zhu, Z Wang, L Xue, **J Yao**, L Xie, M Bi. [[PDF]](https://arxiv.org/pdf/2211.04710)  [[DemoPage]](https://nzqian.github.io/Expressive-VC.github.io/)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> Expressive-vc: Highly expressive voice conversion with attention fusion of bottleneck and perturbation features. Z Ning, Q Xie, P Zhu, Z Wang, L Xue, **<u>J Yao</u>**, L Xie, M Bi. [[PDF]](https://arxiv.org/pdf/2211.04710)  [[DemoPage]](https://nzqian.github.io/Expressive-VC.github.io/)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> Timbre-reserved Adversarial Attack in Speaker Identification. Q Wang, **J Yao**, L Zhang, P Guo, L Xie. [[PDF]](https://arxiv.org/pdf/2309.00929) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">IEEE TASLP</span> Timbre-reserved Adversarial Attack in Speaker Identification. Q Wang, **<u>J Yao</u>**, L Zhang, P Guo, L Xie. [[PDF]](https://arxiv.org/pdf/2309.00929) 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ASRU 2023</span> Salt: Distinguishable Speaker Anonymization Through Latent Space Transformation. Y Lv, **J Yao**, P Chen, H Zhou, H Lu, L Xie. [[PDF]](https://arxiv.org/pdf/2310.05051) [[Code]](https://github.com/BakerBunker/SALT)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ASRU 2023</span> Salt: Distinguishable Speaker Anonymization Through Latent Space Transformation. Y Lv, **<u>J Yao</u>**, P Chen, H Zhou, H Lu, L Xie. [[PDF]](https://arxiv.org/pdf/2310.05051) [[Code]](https://github.com/BakerBunker/SALT)
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">INTERSPEECH 2023</span> Pseudo-Siamese Network based Timbre-reserved Black-box Adversarial Attack in Speaker Identification. Q Wang, **J Yao**, Z Wang, P Guo, L Xie. [[PDF]](https://arxiv.org/pdf/2305.19020) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">INTERSPEECH 2023</span> Pseudo-Siamese Network based Timbre-reserved Black-box Adversarial Attack in Speaker Identification. Q Wang, **<u>J Yao</u>**, Z Wang, P Guo, L Xie. [[PDF]](https://arxiv.org/pdf/2305.19020) 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">INTERSPEECH 2023</span> Dualvc: Dual-mode voice conversion using intra-model knowledge distillation and hybrid predictive coding. Z Ning, Y Jiang, P Zhu, **J Yao**, S Wang, L Xie, M Bi. [[PDF]](https://arxiv.org/pdf/2305.12425) [[DemoPage]](https://dualvc.github.io/) 
-
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2023</span> UniSyn: an end-to-end unified model for text-to-speech and singing voice synthesis. Y Lei, S Yang, X Wang, Q Xie, **J Yao**, L Xie, D Su. [[PDF]](https://arxiv.org/pdf/2212.01546) [[DemoPage]](https://leiyi420.github.io/UniSyn/) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">INTERSPEECH 2023</span> Dualvc: Dual-mode voice conversion using intra-model knowledge distillation and hybrid predictive coding. Z Ning, Y Jiang, P Zhu, **<u>J Yao</u>**, S Wang, L Xie, M Bi. [[PDF]](https://arxiv.org/pdf/2305.12425) [[DemoPage]](https://dualvc.github.io/) 
 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">DADA@IJCAI 2023</span> The NPU-ASLP System for Deepfake Algorithm Recognition in ADD 2023 Challenge. Z Wang, Q Wang, **J Yao**, L Xie. [[PDF]](http://addchallenge.cn/files/2023/pdf/p64-wang.pdf) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2023</span> UniSyn: an end-to-end unified model for text-to-speech and singing voice synthesis. Y Lei, S Yang, X Wang, Q Xie, **<u>J Yao</u>**, L Xie, D Su. [[PDF]](https://arxiv.org/pdf/2212.01546) [[DemoPage]](https://leiyi420.github.io/UniSyn/) 
 
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SMAC 2023</span> Exploring the power of cross-contextual large language model in mimic emotion prediction. G Yi, Y Yang, Y Pan, Y Cao, **J Yao**, X Lv, C Fan, Z Lv, J Tao, S Liang, H Lu. [[PDF]](https://dl.acm.org/doi/10.1145/3606039.3613109) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">DADA@IJCAI 2023</span> The NPU-ASLP System for Deepfake Algorithm Recognition in ADD 2023 Challenge. Z Wang, Q Wang, **<u>J Yao</u>**, L Xie. [[PDF]](http://addchallenge.cn/files/2023/pdf/p64-wang.pdf) 
+
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SMAC 2023</span> Exploring the power of cross-contextual large language model in mimic emotion prediction. G Yi, Y Yang, Y Pan, Y Cao, **<u>J Yao</u>**, X Lv, C Fan, Z Lv, J Tao, S Liang, H Lu. [[PDF]](https://dl.acm.org/doi/10.1145/3606039.3613109) 
 
 
 2022:
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">VPC 2022</span> NWPU-ASLP system for the voiceprivacy 2022 challenge. **J Yao**, Q Wang, L Zhang, P Guo, Y Liang, L Xie. [[PDF]](https://arxiv.org/pdf/2209.11969) 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">VPC 2022</span> NWPU-ASLP system for the voiceprivacy 2022 challenge. **<u>J Yao</u>**, Q Wang, L Zhang, P Guo, Y Liang, L Xie. [[PDF]](https://arxiv.org/pdf/2209.11969) 
 
 
 # 🎖 Honors and Awards
@@ -135,7 +147,7 @@ My research interest includes speech synthesis, voice conversion and speaker ano
   - Speech Communication
   - ICASSP 2024, 2025
   - INTERSPEECH 2024, 2025
-  - ACM MM 2024
+  - ACM MM 2024, 2025
   - ICLR 2025
   - IJCNN 2025
 - Organizer
